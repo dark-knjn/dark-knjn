@@ -1,7 +1,7 @@
 <!-- <img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;"> -->
 
 <h1 align="center">
-Hi, Dark-KNJN's here!
+Hi, Cyborg's here!
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
@@ -45,8 +45,13 @@ Hi, Dark-KNJN's here!
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2312100E.svg?&logo=TensorFlow&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-%2312100E.svg?style=for-the-badge&logo=Keras&logoColor=red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2312100E.svg?style=for-the-badge&logo=OpenCV&logoColor=5c7ce8)
+![LangChain](https://img.shields.io/badge/LangChain-%2312100E.svg?style=for-the-badge&logo=LangChain)
+![Yolo](https://img.shields.io/badge/Yolo-%2312100E.svg?style=for-the-badge&logo=Yolo)
+![LLM](https://img.shields.io/badge/llm-%2312100E.svg?style=for-the-badge&logo=llm)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2312100E.svg?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=Matplotlib)
+![TTS](https://img.shields.io/badge/TTS-%2312100E.svg?style=for-the-badge&logo=TTS)
+![STT](https://img.shields.io/badge/TTS-%2312100E.svg?style=for-the-badge&logo=STT)
 
 #### MLOps
 
