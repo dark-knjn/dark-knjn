@@ -1,7 +1,7 @@
 <!-- <img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;"> -->
 
 <h1 align="center">
-Hi, Cyborg's here!
+Hi, Dark-KNJN's here!
  <a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  </a>
